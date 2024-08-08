@@ -3,7 +3,7 @@
 This project/site is just a revised version of my portfolio utilizing React and netlify. This was a nice simple challenge for me to see how far I've come since my original portfolio and it's safe to say that I've learned quite a bit in the last few months!
 
 ## Usage
-You can access the site here: [Portfolio]()
+You can access the site here: [Portfolio](https://kushonim.netlify.app/about)
 
 ## Screenshot/Demo
 ![alt](demosc.png)
